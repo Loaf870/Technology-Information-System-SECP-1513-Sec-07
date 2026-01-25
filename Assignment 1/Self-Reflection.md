@@ -8,4 +8,4 @@ witness the magnificent creation of many types of camera! I got hooked by body c
 capture everything infront of it in real-time. it costed for like RM 4500 due to its extreme durability
 so whenever reckless accident occurs, it won't broke easily. Now I know why the devices sold were a big
 deal. Therefore, made me realized how much respect I could give for the IT engineers out there to build
-this body camera.
+this body camera. Finally, my critic for the visit is that it shouldn't be having a radio playing a loud song as it ruined some people's focus on their visit.
