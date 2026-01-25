@@ -1,4 +1,4 @@
-### Starring --->
+### Starring
 ---
 
 1. Miss Ai Ling Ooi, The APAC IT Lead.
