@@ -1,2 +1,2 @@
-### Assignmet 2: Self-reflection
+### Assignmet 2: Reflection
 ---
