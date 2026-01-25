@@ -1,0 +1,6 @@
+### Assignment 3: Reflection
+---
+After the presentation made by Ts. Hj. Abdul Halim bin Abdul Muttalib, Out of the industrial video, I just realized that most people do know how to code,
+but don’t know how to implement their projects. One reason why the system development have declined is that it is not just a chapter in their program, instead
+a core language for their future careers. I need the system design skills in my life where I would develop one design architecture that must be planned on how
+it is about to be executed. The speaker also brought to me a big motivation where I will never stop learning the art of computer science. 
