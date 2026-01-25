@@ -1,7 +1,7 @@
 ### Assignment 1: Reflection
 ---
 I interviewed a UTMdigital employee! What view I had was becoming myself as sort of a news reporter too.
-I’ve also gained a knowledge that the employee is sort of the network connection manager on Wi-Fi
+I’ve also gained a knowledge that the employee is sort of network connection manager on Wi-Fi
 functions. My point of view is that we have to be appreciative on how we use the Wi-Fi because managing
 Internet Protocol isn’t easy as network engineer. My group and myself also went to D-Ron booth just to
 witness the magnificent creation of many types of camera! I got hooked by body camera, its function is to
